@@ -53,15 +53,7 @@ Over the years, I've mastered the art of software development, focusing on **And
 - **Sr. Android Developer at Nuspay & HardWon**
   - Developed and implemented features for blockchain wallet applications and agent banking solutions.
   - Improved existing apps' architecture and performance, leading to a significant increase in company revenue.
-
----
-
-### 📈 Achievements
-
-- **Shikho:** Successfully led the Android team to secure a $4M foreign investment, re-architected the app, and maintained 99%+ crash-free users.
-- **Shohoz:** Developed top-tier apps with 97%+ crash-free users, contributing to a $15M Series A investment.
-- **Nuspay:** Enhanced application architecture, directly impacting revenue growth.
-
+  - 
 ---
 
 ### 📬 Let's Connect
