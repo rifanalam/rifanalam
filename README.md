@@ -1,68 +1,101 @@
-# 👋 Saiful Alam Rifan
+<h1 align="center">Saiful Alam Rifan</h1>
 
-**Mobile Application Developer | Android Expert | Tech Enthusiast**
+<p align="center">
+  <strong>Senior Software Architect · Mobile Application Developer</strong><br>
+  Android · Kotlin · Jetpack Compose · Flutter · Kotlin Multiplatform
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rifanalam/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/rifanalam)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-orange?style=flat-square&logo=stackoverflow)](https://stackoverflow.com/users/5756788/rifan)
+<p align="center">
+  Building reliable mobile products, from architecture to production.
+</p>
 
----
-
-### 🚀 About Me
-
-Greetings! I'm **Saiful Alam Rifan**, a seasoned Mobile Application Developer with over a decade of experience. My journey in the tech industry has been driven by a passion for crafting user-centric mobile applications that not only solve problems but also enhance lives.
-
-Over the years, I've mastered the art of software development, focusing on **Android**. I’ve had the privilege of working across various sectors, including **EdTech, FinTech, AdTech, Ride Sharing, Food Delivery, Healthcare,** and **Government**. My work has reached millions of users worldwide, ensuring that the apps I develop are robust, scalable, and user-friendly.
-
----
-
-### 🌟 Expertise
-
-- **Android Development:** Proficient in Java, Kotlin, and Android SDK with a deep understanding of Android architecture (MVVM, MVP).
-- **Mobile App Lifecycle:** Experienced in the full lifecycle of mobile app development, from concept to deployment and beyond.
-- **Cross-functional Collaboration:** Proven ability to work closely with cross-functional teams to deliver high-quality software solutions.
-- **Problem-Solving:** Adept at troubleshooting complex issues and implementing innovative solutions.
-- **Continuous Learning:** Committed to staying up-to-date with the latest trends and technologies in mobile development.
-
----
-
-### 🛠️ Tools & Technologies
-
-- **Languages:** Java, Kotlin
-- **Frameworks & Libraries:** KMM, Android Jetpack, Dagger-Hilt, Retrofit, RxJava, Firebase, ExoPlayer
-- **Database:** Room, SQLite, Realm
-- **Architecture:** MVVM, MVI, MVP, Clean Architecture
-- **Version Control:** Git, GitHub
-- **CI/CD:** Circle CI, GitHub Actions
-- **Other:** NFC, BLE, Smart Card, Blockchain, Payment Gateway Integration
+<p align="center">
+  <a href="https://www.linkedin.com/in/rifanalam/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="Connect on LinkedIn">
+  </a>
+  <a href="https://stackoverflow.com/users/5756788/rifan">
+    <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow profile">
+  </a>
+  <a href="https://androidboss.info/">
+    <img src="https://img.shields.io/badge/AndroidBoss-173B2D?style=for-the-badge&logo=android&logoColor=3DDC84" alt="Visit AndroidBoss">
+  </a>
+  <a href="https://github.com/rifanalam">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile">
+  </a>
+</p>
 
 ---
 
-### 💼 Professional Experience
+## About me
 
-- **Sr. Lead Mobile Application Developer at Shikho**
-  - Led a team to develop cutting-edge Android applications, achieving 99%+ crash-free users and over 1 million active installs.
-  - Spearheaded the transition to Kotlin Multiplatform Mobile (KMM), enhancing app scalability and performance.
-  - Played a key role in securing a $4M foreign seed round investment for the company.
+I'm Rifan, a mobile engineer and technical leader based in **Dhaka, Bangladesh**, building production applications since **2013**.
 
-- **Sr. Software Engineer & Team Lead (Android) at Shohoz**
-  - Managed the development of multiple high-traffic Android applications, including COVID-19 contact Tracing, Ride Sharing, and Food Delivery Services.
-  - Achieved a 97%+ crash-free rate with over 100,000 daily active users.
-  - Contributed to securing a $15M Series A foreign investment through exceptional team leadership and software quality.
+My core expertise is **native Android with Kotlin and Jetpack Compose**, complemented by hands-on **Flutter development for Android and iOS**, **Kotlin Multiplatform-ready architecture**, and **Python/FastAPI** backend work.
 
-- **Sr. Android Developer at Nuspay & HardWon**
-  - Developed and implemented features for blockchain wallet applications and agent banking solutions.
-  - Improved existing apps' architecture and performance, leading to a significant increase in company revenue.
-  - 
----
+I stay close to the code while leading architecture, mentoring engineers, and owning delivery—from technical planning through store releases and ongoing maintenance.
 
-### 📬 Let's Connect
+I've worked across **EdTech, FinTech, ride-hailing, food delivery, healthcare, ticketing, government services, and Super App ecosystems**, where performance, offline reliability, and user experience matter.
 
-I'm always open to new challenges and collaborations. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/rifanalam/) or explore my projects on [GitHub](https://github.com/rifanalam).
+**Career highlights:** 30+ production mobile apps · Shikho scaled to 5M+ installs · Led teams of 7+ engineers
 
-Let's build something amazing together!
+## What I bring to a mobile team
 
----
+- **Android engineering:** Kotlin, Compose, Coroutines, Flow, lifecycle-aware components, and maintainable UI architecture.
+- **Cross-platform delivery:** Flutter apps for Android and iOS, native platform integration, authentication, notifications, and store releases.
+- **Architecture & modernization:** Modular design, Clean Architecture, MVVM/MVI, XML-to-Compose migrations, and preparation for shared KMP code.
+- **Real-world reliability:** Offline synchronization, background location, real-time communication, memory and battery optimization, and production diagnostics.
+- **Technical leadership:** Architecture reviews, mentoring, cross-functional planning, release quality, and pragmatic engineering decisions.
 
-**Saiful Alam Rifan**  
-*Mobile Application Developer & Android Expert*
+## Selected experience
+
+### Shikho · Senior Software Architect, Android
+
+*November 2021–present · Previously part-time consultant, October 2020–November 2021*
+
+- Lead Android architecture and delivery with a three-member Android team.
+- Led the migration from legacy XML layouts to Jetpack Compose and restructured the app for Kotlin Multiplatform readiness.
+- Maintained **98%+ crash-free stability** as the platform scaled to **5M+ installs**.
+- Delivered video playback, offline data, secure local storage, fraud detection, and GraphQL/REST integrations.
+
+### Fox Signals · Cross-Platform Flutter & Backend Developer
+
+*September 2024–July 2025 · Remote, part-time*
+
+- Modernized a production Flutter app for Android and iOS, including dependencies, native builds, and release workflows.
+- Improved Apple Sign-In, FCM/APNs delivery, and cross-platform Crashlytics integration.
+- Shipped App Store and Google Play releases and enhanced Python/FastAPI services for trading-data workflows.
+
+### Shohoz · Senior Software Engineer & Team Lead, Android
+
+*December 2017–November 2021 · Additional Android development and consulting engagements*
+
+- Led **7+ Android engineers** across ride-hailing, food delivery, telemedicine, contact tracing, and ticketing products.
+- Delivered maps, geofencing, foreground services, real-time messaging, video calling, and payment integrations.
+- Built ticketing and POS workflows with Bluetooth/USB printer integration and offline synchronization.
+- Supported products serving approximately **100K+ daily active users**.
+
+Earlier roles at **Nuspay & HardWon, Shurjomukhi, and VU Mobile** included blockchain wallets, agent banking, education, BLE/NFC integrations, and government applications.
+
+## Technical toolkit
+
+| Area | Technologies & practices |
+| --- | --- |
+| Native Android | Kotlin, Java, Jetpack Compose, Android Jetpack, Coroutines, Flow, Hilt |
+| Cross-platform | Flutter, Dart, Kotlin Multiplatform (KMP/KMM) |
+| Architecture | Clean Architecture, modularization, MVVM, MVI, offline-first workflows |
+| APIs & backend | Python, FastAPI, REST, GraphQL, Retrofit, Ktor, OkHttp, Protobuf |
+| Data & messaging | Room, SQLite, Realm, MongoDB, Firebase, Socket.IO, MQTT, FCM, APNs |
+| Device capabilities | Maps, location tracking, geofencing, BLE, NFC, POS, Bluetooth/USB printing |
+| Delivery & quality | Git, CI/CD, Gradle Kotlin DSL, Xcode, CocoaPods, Crashlytics, profiling, store releases |
+
+## How I work
+
+I value **clear architecture, readable code, empathy, and accountability**. Good engineering should make both the product and the team easier to scale.
+
+I use **AI-assisted development with explicit engineering guardrails**: project-level instructions, persistent context, module boundaries, design-system rules, verification commands, migration safety, and emulator checks. Generated code still needs review, testing, and a clear owner.
+
+## Let's connect
+
+Open to conversations about **remote senior/lead mobile engineering, mobile architecture, and consulting**.
+
+If you're building an Android product, a cross-platform app, or a multi-service mobile platform, [let's talk on LinkedIn](https://www.linkedin.com/in/rifanalam/).
